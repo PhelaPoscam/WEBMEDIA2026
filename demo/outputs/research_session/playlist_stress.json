@@ -1,0 +1,387 @@
+{
+  "participant_id": "SUB-001",
+  "experiment_id": "ASA-STRESS-01",
+  "valence_model": "Model_C",
+  "valence_column": "Model_C (Dominant)",
+  "matching_strategy": "euclidean",
+  "input_pool_size": 64,
+  "post_familiarity_pool_size": 62,
+  "phases": [
+    {
+      "phase_id": "1",
+      "target_valence": 0.0,
+      "target_arousal": -0.25,
+      "target_duration_seconds": 180,
+      "achieved_duration_seconds": 195,
+      "duration_gap_seconds": 15,
+      "selected_count": 4,
+      "status": "duration_overshoot",
+      "selected_films": [
+        {
+          "film": "Trainspotting (3)",
+          "stimulus_id": "Trainspotting (3)",
+          "stimulus_code": "Trainspotting (3)",
+          "uri": "csv://Trainspotting (3)",
+          "modality": "video",
+          "arousal": 4.02,
+          "valence": -0.0928,
+          "distance": 0.046467,
+          "duration_seconds": 62,
+          "duration_ms": 62000
+        },
+        {
+          "film": "Man Bites Dog (2)",
+          "stimulus_id": "Man Bites Dog (2)",
+          "stimulus_code": "Man Bites Dog (2)",
+          "uri": "csv://Man Bites Dog (2)",
+          "modality": "video",
+          "arousal": 4.65,
+          "valence": -0.0646,
+          "distance": 0.087435,
+          "duration_seconds": 77,
+          "duration_ms": 77000
+        },
+        {
+          "film": "Blue (2)",
+          "stimulus_id": "Blue (2)",
+          "stimulus_code": "Blue (2)",
+          "uri": "csv://Blue (2)",
+          "modality": "video",
+          "arousal": 1.63,
+          "valence": 0.3796,
+          "distance": 0.351835,
+          "duration_seconds": 40,
+          "duration_ms": 40000
+        },
+        {
+          "film": "Blue (1)",
+          "stimulus_id": "Blue (1)",
+          "stimulus_code": "Blue (1)",
+          "uri": "csv://Blue (1)",
+          "modality": "video",
+          "arousal": 1.83,
+          "valence": 0.6146,
+          "distance": 0.40989,
+          "duration_seconds": 16,
+          "duration_ms": 16000
+        }
+      ]
+    },
+    {
+      "phase_id": "2",
+      "target_valence": -0.8,
+      "target_arousal": 0.75,
+      "target_duration_seconds": 300,
+      "achieved_duration_seconds": 314,
+      "duration_gap_seconds": 14,
+      "selected_count": 3,
+      "status": "duration_overshoot",
+      "selected_films": [
+        {
+          "film": "Misery",
+          "stimulus_id": "Misery",
+          "stimulus_code": "Misery",
+          "uri": "csv://Misery",
+          "modality": "video",
+          "arousal": 6.12,
+          "valence": -0.9271,
+          "distance": 0.243441,
+          "duration_seconds": 211,
+          "duration_ms": 211000
+        },
+        {
+          "film": "Schindler's list (1)",
+          "stimulus_id": "Schindler's list (1)",
+          "stimulus_code": "Schindler's list (1)",
+          "uri": "csv://Schindler's list (1)",
+          "modality": "video",
+          "arousal": 5.88,
+          "valence": -0.9342,
+          "distance": 0.273363,
+          "duration_seconds": 78,
+          "duration_ms": 78000
+        },
+        {
+          "film": "Blue (3)",
+          "stimulus_id": "Blue (3)",
+          "stimulus_code": "Blue (3)",
+          "uri": "csv://Blue (3)",
+          "modality": "video",
+          "arousal": 1.86,
+          "valence": 0.5817,
+          "distance": 1.032633,
+          "duration_seconds": 25,
+          "duration_ms": 25000
+        }
+      ]
+    },
+    {
+      "phase_id": "3",
+      "target_valence": 0.8,
+      "target_arousal": -0.5,
+      "target_duration_seconds": 300,
+      "achieved_duration_seconds": 314,
+      "duration_gap_seconds": 14,
+      "selected_count": 4,
+      "status": "duration_overshoot",
+      "selected_films": [
+        {
+          "film": "The visitors",
+          "stimulus_id": "The visitors",
+          "stimulus_code": "The visitors",
+          "uri": "csv://The visitors",
+          "modality": "video",
+          "arousal": 3.55,
+          "valence": 0.8919,
+          "distance": 0.082692,
+          "duration_seconds": 129,
+          "duration_ms": 129000
+        },
+        {
+          "film": "When a man loves a woman",
+          "stimulus_id": "When a man loves a woman",
+          "stimulus_code": "When a man loves a woman",
+          "uri": "csv://When a man loves a woman",
+          "modality": "video",
+          "arousal": 3.71,
+          "valence": 0.6193,
+          "distance": 0.126648,
+          "duration_seconds": 99,
+          "duration_ms": 99000
+        },
+        {
+          "film": "The lover",
+          "stimulus_id": "The lover",
+          "stimulus_code": "The lover",
+          "uri": "csv://The lover",
+          "modality": "video",
+          "arousal": 1.86,
+          "valence": 0.9718,
+          "distance": 0.166388,
+          "duration_seconds": 43,
+          "duration_ms": 43000
+        },
+        {
+          "film": "The Piano",
+          "stimulus_id": "The Piano",
+          "stimulus_code": "The Piano",
+          "uri": "csv://The Piano",
+          "modality": "video",
+          "arousal": 5.67,
+          "valence": -0.7509,
+          "distance": 0.844223,
+          "duration_seconds": 43,
+          "duration_ms": 43000
+        }
+      ]
+    }
+  ],
+  "unassigned_pool_size": 51,
+  "transparency_report": {
+    "run_metadata": {
+      "timestamp": "2026-06-11T12:41:29.287901",
+      "matching_strategy": "euclidean",
+      "valence_model": "Model_C",
+      "valence_column": "Model_C (Dominant)",
+      "input_pool_size": 64
+    },
+    "exclusions": [
+      {
+        "stimulus_id": "Ghost",
+        "reason": "familiar_media"
+      },
+      {
+        "stimulus_id": "Forrest Gump",
+        "reason": "familiar_media"
+      }
+    ],
+    "phases": [
+      {
+        "phase_id": "1",
+        "target_valence": 0.0,
+        "target_arousal": -0.25,
+        "achieved_valence": 0.2092,
+        "achieved_arousal": 3.0324999999999998,
+        "achieved_duration_seconds": 195,
+        "target_duration_seconds": 180,
+        "duration_gap_seconds": 15,
+        "candidate_pool_size": 62,
+        "selections": [
+          {
+            "stimulus_id": "Trainspotting (3)",
+            "distance": 0.04646730033044743,
+            "duration_ms": 62000,
+            "selection_reason": "closest_affective_match"
+          },
+          {
+            "stimulus_id": "Man Bites Dog (2)",
+            "distance": 0.08743484717205154,
+            "duration_ms": 77000,
+            "selection_reason": "closest_affective_match"
+          },
+          {
+            "stimulus_id": "Blue (2)",
+            "distance": 0.3518353343540128,
+            "duration_ms": 40000,
+            "selection_reason": "closest_affective_match"
+          },
+          {
+            "stimulus_id": "Blue (1)",
+            "distance": 0.40989004928151157,
+            "duration_ms": 16000,
+            "selection_reason": "closest_duration_fit"
+          }
+        ],
+        "rejected_candidates": [
+          {
+            "stimulus_id": "In the name of the father",
+            "distance": 0.06819853370857762,
+            "duration_ms": 210000
+          },
+          {
+            "stimulus_id": "Indiana Jones",
+            "distance": 0.11824163818215647,
+            "duration_ms": 113000
+          },
+          {
+            "stimulus_id": "City of angels",
+            "distance": 0.15179138644863882,
+            "duration_ms": 255000
+          },
+          {
+            "stimulus_id": "Underground",
+            "distance": 0.1540448311369129,
+            "duration_ms": 58000
+          },
+          {
+            "stimulus_id": "The dead Poets Society (1)",
+            "distance": 0.1562787973462811,
+            "duration_ms": 254000
+          }
+        ]
+      },
+      {
+        "phase_id": "2",
+        "target_valence": -0.8,
+        "target_arousal": 0.75,
+        "achieved_valence": -0.4265333333333334,
+        "achieved_arousal": 4.62,
+        "achieved_duration_seconds": 314,
+        "target_duration_seconds": 300,
+        "duration_gap_seconds": 14,
+        "candidate_pool_size": 58,
+        "selections": [
+          {
+            "stimulus_id": "Misery",
+            "distance": 0.24344116845759675,
+            "duration_ms": 211000,
+            "selection_reason": "closest_affective_match"
+          },
+          {
+            "stimulus_id": "Schindler's list (1)",
+            "distance": 0.2733631467480575,
+            "duration_ms": 78000,
+            "selection_reason": "closest_affective_match"
+          },
+          {
+            "stimulus_id": "Blue (3)",
+            "distance": 1.0326325447612041,
+            "duration_ms": 25000,
+            "selection_reason": "closest_duration_fit"
+          }
+        ],
+        "rejected_candidates": [
+          {
+            "stimulus_id": "Dead Man Walking",
+            "distance": 0.2662932640905511,
+            "duration_ms": 400000
+          },
+          {
+            "stimulus_id": "American History X",
+            "distance": 0.27999682587486596,
+            "duration_ms": 77000
+          },
+          {
+            "stimulus_id": "Saving Private Ryan",
+            "distance": 0.2839423621089322,
+            "duration_ms": 322000
+          },
+          {
+            "stimulus_id": "The Piano",
+            "distance": 0.2922828510193508,
+            "duration_ms": 43000
+          },
+          {
+            "stimulus_id": "Sleepers",
+            "distance": 0.3126724524162626,
+            "duration_ms": 140000
+          }
+        ]
+      },
+      {
+        "phase_id": "3",
+        "target_valence": 0.8,
+        "target_arousal": -0.5,
+        "achieved_valence": 0.433025,
+        "achieved_arousal": 3.6975,
+        "achieved_duration_seconds": 314,
+        "target_duration_seconds": 300,
+        "duration_gap_seconds": 14,
+        "candidate_pool_size": 55,
+        "selections": [
+          {
+            "stimulus_id": "The visitors",
+            "distance": 0.08269198872925963,
+            "duration_ms": 129000,
+            "selection_reason": "closest_affective_match"
+          },
+          {
+            "stimulus_id": "When a man loves a woman",
+            "distance": 0.12664787799248753,
+            "duration_ms": 99000,
+            "selection_reason": "closest_affective_match"
+          },
+          {
+            "stimulus_id": "The lover",
+            "distance": 0.16638828083732338,
+            "duration_ms": 43000,
+            "selection_reason": "closest_affective_match"
+          },
+          {
+            "stimulus_id": "The Piano",
+            "distance": 0.8442225802476501,
+            "duration_ms": 43000,
+            "selection_reason": "closest_duration_fit"
+          }
+        ],
+        "rejected_candidates": [
+          {
+            "stimulus_id": "There is something about Mary (1",
+            "distance": 0.1276892810693207,
+            "duration_ms": 175000
+          },
+          {
+            "stimulus_id": "\"Le Pari\"",
+            "distance": 0.12804175100333484,
+            "duration_ms": 107000
+          },
+          {
+            "stimulus_id": "Benny and Joone",
+            "distance": 0.13892870473735797,
+            "duration_ms": 121000
+          },
+          {
+            "stimulus_id": "A fish called Wanda",
+            "distance": 0.15013330743043002,
+            "duration_ms": 173000
+          },
+          {
+            "stimulus_id": "There is something about Mary (2)",
+            "distance": 0.1833441845273528,
+            "duration_ms": 146000
+          }
+        ]
+      }
+    ]
+  }
+}

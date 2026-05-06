@@ -1,0 +1,12 @@
+Weight	Nested	Procedure	trial_id	phase_id	stimulus_id	stimulus_uri	target_valence	target_arousal	duration_ms
+1		TrialProc	1	1	Trainspotting (3)	csv://Trainspotting (3)	0.0	-0.25	62000
+1		TrialProc	2	1	Man Bites Dog (2)	csv://Man Bites Dog (2)	0.0	-0.25	77000
+1		TrialProc	3	1	Blue (2)	csv://Blue (2)	0.0	-0.25	40000
+1		TrialProc	4	1	Blue (1)	csv://Blue (1)	0.0	-0.25	16000
+1		TrialProc	5	2	Misery	csv://Misery	-0.8	0.75	211000
+1		TrialProc	6	2	Schindler's list (1)	csv://Schindler's list (1)	-0.8	0.75	78000
+1		TrialProc	7	2	Blue (3)	csv://Blue (3)	-0.8	0.75	25000
+1		TrialProc	8	3	The visitors	csv://The visitors	0.8	-0.5	129000
+1		TrialProc	9	3	When a man loves a woman	csv://When a man loves a woman	0.8	-0.5	99000
+1		TrialProc	10	3	The lover	csv://The lover	0.8	-0.5	43000
+1		TrialProc	11	3	The Piano	csv://The Piano	0.8	-0.5	43000

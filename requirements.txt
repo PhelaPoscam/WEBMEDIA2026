@@ -1,0 +1,15 @@
+sqlalchemy
+pydantic
+pydantic-settings
+python-dotenv
+numpy
+pandas
+pandas-stubs
+pytest
+alembic
+PyYAML
+black
+isort
+flake8
+mkdocs
+mkdocs-material

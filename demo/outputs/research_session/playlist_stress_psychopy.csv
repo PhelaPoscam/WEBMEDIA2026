@@ -1,0 +1,12 @@
+Trial,Phase,Film,Code,Target_Valence,Target_Arousal,Normalized_Score_Valence,Dist_From_Target,Arousal_Metadata,Duration_ms
+1,1,Trainspotting (3),Trainspotting (3),0.0,-0.25,-0.093,0.046,4.02,62000
+2,1,Man Bites Dog (2),Man Bites Dog (2),0.0,-0.25,-0.065,0.087,4.65,77000
+3,1,Blue (2),Blue (2),0.0,-0.25,0.38,0.352,1.63,40000
+4,1,Blue (1),Blue (1),0.0,-0.25,0.615,0.41,1.83,16000
+5,2,Misery,Misery,-0.8,0.75,-0.927,0.243,6.12,211000
+6,2,Schindler's list (1),Schindler's list (1),-0.8,0.75,-0.934,0.273,5.88,78000
+7,2,Blue (3),Blue (3),-0.8,0.75,0.582,1.033,1.86,25000
+8,3,The visitors,The visitors,0.8,-0.5,0.892,0.083,3.55,129000
+9,3,When a man loves a woman,When a man loves a woman,0.8,-0.5,0.619,0.127,3.71,99000
+10,3,The lover,The lover,0.8,-0.5,0.972,0.166,1.86,43000
+11,3,The Piano,The Piano,0.8,-0.5,-0.751,0.844,5.67,43000

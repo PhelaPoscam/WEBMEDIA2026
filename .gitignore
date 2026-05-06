@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+AGENTS.md
+*.db
+downloads/
+.mypy_cache/
+.pytest_cache/
+*.log
+.commandcode/

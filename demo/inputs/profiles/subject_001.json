@@ -1,0 +1,12 @@
+{
+  "participant_id": "SUB-001",
+  "age": 24,
+  "gender": "non-binary",
+  "familiar_films": [
+    "Ghost",
+    "Forrest Gump"
+  ],
+  "phobias": [
+    "spiders"
+  ]
+}
