@@ -12,8 +12,6 @@ This version has been prepared and published for **WebMedia 2026**.
 - **Subject-tailored logic**: Filters familiar films from participant-specific playlists.
 - **Dataset agnostic**: Processes compatible experimental datasets when they provide stimulus identifiers, affective metadata, and duration information.
 
-See [TODO.md](TODO.md) for deferred research-paper readiness items, including richer transparency reports, broader participant-level filtering, and future evaluation plans.
-
 ## Framework Model
 
 ASA is organized around a reusable assembly contract rather than a single fixed dataset. A run combines:
@@ -113,7 +111,3 @@ Activate the virtual environment first, then run:
 ```bash
 python -m pytest tests
 ```
-
----
-
-Developed for clinical-grade psychophysiological research.
